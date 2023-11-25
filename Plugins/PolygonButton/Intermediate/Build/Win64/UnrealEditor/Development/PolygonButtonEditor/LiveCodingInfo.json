@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PolygonButtonEditor.cpp.obj": [
+			"Polygon2DCustomization.cpp.obj",
+			"PolygonButtonEditorModule.cpp.obj",
+			"PolygonButtonExtension.cpp.obj"
+		]
+	}
+}

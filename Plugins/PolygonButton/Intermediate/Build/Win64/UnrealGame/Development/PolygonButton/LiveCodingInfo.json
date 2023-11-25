@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PolygonButton.cpp.obj": [
+			"PolygonButton.cpp.obj",
+			"PolygonButtonModule.cpp.obj",
+			"PolygonOverlay.cpp.obj",
+			"PolygonOverlaySlot.cpp.obj",
+			"SPolygonButton.cpp.obj",
+			"SPolygonOverlay.cpp.obj"
+		],
+		"Module.PolygonButton.gen.cpp.obj": [
+			"Polygon2D.gen.cpp.obj",
+			"PolygonButton.gen.cpp.obj",
+			"PolygonButton.init.gen.cpp.obj",
+			"PolygonOverlay.gen.cpp.obj",
+			"PolygonOverlaySlot.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PolygonButtonEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealWork\UE5\FVM\Intermediate\Build\Win64\FVMEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\UnrealWork\UE5\FVM\Plugins\PolygonButton\Intermediate\Build\Win64\UnrealEditor\Development\PolygonButtonEditor\Module.PolygonButtonEditor.cpp.obj"
+"D:\UnrealWork\UE5\FVM\Plugins\PolygonButton\Intermediate\Build\Win64\UnrealEditor\Development\PolygonButtonEditor\Default.rc2.res"
+/OUT:"D:\UnrealWork\UE5\FVM\Plugins\PolygonButton\Intermediate\Build\Win64\UnrealEditor\Development\PolygonButtonEditor\UnrealEditor-PolygonButtonEditor.lib"
